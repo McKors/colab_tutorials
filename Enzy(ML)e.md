@@ -14,11 +14,11 @@ The data has to be synthetically generated.
 
 ### Format
 
-| time of incubation | degree of degradation | molecular weight | yield strength | fingerprint |
-| ------------------ | --------------------- | -----------------|----------------| [0,1,0,0,1] |
-| 4 h                | 2 %                   | 50.000           | 3              | [1,0,0,0,1] |
-| 8 h                | 5 %                   | 45.000           | 3.5            | [1,1,0,0,1] |
-| 16 h               | 10 %                  | 40.000           | 4.0            | [1,1,0,0,0] |
+| time of incubation | polymer        | enzyme    | crystsllinity  Xc | 
+| ------------------ | -------------- | ----------|-------------------| 
+| 0 h                | [*]CC([*])C    | PETase    | 40.1              | 
+| 8 h                | [*]CC([*])C    | PETase    | 42.0              |
+| 16 h               | [*]CC([*])C    | PETase    | 42.4              |
 
 ## Rough plan
 
